@@ -1,6 +1,6 @@
 <div align="center">
     <img align="center" src="https://and-dev-team.github.io/img/ANDOS.jpg" alt="logo" width="200">
-    <h1 align="center">AND UI OS</h1>
+    <h1 align="center">AND UI OS Online</h1>
     <p align="center">在线使用 AND UI OS</p>
     <p align="center">
         <img src="https://and-dev-team.github.io/img/team3.svg"/>
